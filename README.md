@@ -1,2 +1,2 @@
-# DemoSysPayroll
-sampling untuk sistem penggajian karyawan atau pada pegawai di bank
+# Payroll Demo System
+Prototype untuk sistem penggajian karyawan untuk bank swasta
